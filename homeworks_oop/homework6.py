@@ -24,3 +24,4 @@ class Solution:
 
 a = Solution().find_target(get_list(), 2_345_678)
 print(a)
+
