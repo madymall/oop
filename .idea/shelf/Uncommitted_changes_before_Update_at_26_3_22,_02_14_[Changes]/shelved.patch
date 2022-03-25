@@ -1,0 +1,352 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"9695a7a2-2967-4ce1-8acb-7654205d1449\" name=\"Changes\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/homeworks_oop/doc_re.txt \" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/homeworks_oop/doc_re.txt \" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/homeworks_oop/doc_venv.txt\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/homeworks_oop/doc_venv.txt\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"26HYwPongDsMvz5LYnUUmeFH1sv\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n  </component>\n  <component name=\"RecentsManager\">\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/homeworks_oop\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"Python.valid_email\">\n    <configuration name=\"abstract\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"OOP\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/lesson4/models\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/lesson4/models/abstract.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\n      <module name=\"OOP\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/lesson4\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/lesson4/main.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"models\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"OOP\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/lesson4/package\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/lesson4/package/models.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"regular\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"OOP\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/lesson5\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/lesson5/regular.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"valid_email\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"OOP\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/lesson5\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/lesson5/valid_email.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"valid_phone\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"OOP\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/lesson5\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/lesson5/valid_phone.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <list>\n      <item itemvalue=\"Python.main\" />\n      <item itemvalue=\"Python.models\" />\n      <item itemvalue=\"Python.abstract\" />\n      <item itemvalue=\"Python.regular\" />\n      <item itemvalue=\"Python.valid_phone\" />\n      <item itemvalue=\"Python.valid_email\" />\n    </list>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Python.valid_email\" />\n        <item itemvalue=\"Python.valid_phone\" />\n        <item itemvalue=\"Python.regular\" />\n        <item itemvalue=\"Python.abstract\" />\n        <item itemvalue=\"Python.models\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"9695a7a2-2967-4ce1-8acb-7654205d1449\" name=\"Changes\" comment=\"\" />\n      <created>1647082218373</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1647082218373</updated>\n      <workItem from=\"1647082220288\" duration=\"8000\" />\n      <workItem from=\"1647082436937\" duration=\"685000\" />\n      <workItem from=\"1647083326600\" duration=\"686000\" />\n      <workItem from=\"1647084298026\" duration=\"1024000\" />\n      <workItem from=\"1647086772637\" duration=\"6543000\" />\n      <workItem from=\"1647372505978\" duration=\"3202000\" />\n      <workItem from=\"1647376568486\" duration=\"5000\" />\n      <workItem from=\"1647423934234\" duration=\"342000\" />\n      <workItem from=\"1647432214571\" duration=\"6486000\" />\n      <workItem from=\"1647604301231\" duration=\"2285000\" />\n      <workItem from=\"1647608624232\" duration=\"1444000\" />\n      <workItem from=\"1647629657212\" duration=\"857000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\n    <SUITE FILE_PATH=\"coverage/OOP$mymodule.coverage\" NAME=\"mymodule Coverage Results\" MODIFIED=\"1647089623728\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/lesson4\" />\n    <SUITE FILE_PATH=\"coverage/OOP$homework3.coverage\" NAME=\"homework3 Coverage Results\" MODIFIED=\"1647085024168\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/lesson3\" />\n    <SUITE FILE_PATH=\"coverage/OOP$main.coverage\" NAME=\"main Coverage Results\" MODIFIED=\"1647089767842\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/lesson4\" />\n    <SUITE FILE_PATH=\"coverage/OOP$abstract.coverage\" NAME=\"abstract Coverage Results\" MODIFIED=\"1647092961542\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/lesson4/models\" />\n    <SUITE FILE_PATH=\"coverage/OOP$test.coverage\" NAME=\"test Coverage Results\" MODIFIED=\"1647089930960\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/lesson4\" />\n    <SUITE FILE_PATH=\"coverage/OOP$homework4.coverage\" NAME=\"regular Coverage Results\" MODIFIED=\"1647434239361\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/lesson5\" />\n    <SUITE FILE_PATH=\"coverage/OOP$persons.coverage\" NAME=\"homework4 Coverage Results\" MODIFIED=\"1647376535228\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/homeworks_oop\" />\n    <SUITE FILE_PATH=\"coverage/OOP$valid_email.coverage\" NAME=\"valid_email Coverage Results\" MODIFIED=\"1647437426745\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/lesson5\" />\n    <SUITE FILE_PATH=\"coverage/OOP$valid_phone.coverage\" NAME=\"valid_phone Coverage Results\" MODIFIED=\"1647436990991\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/lesson5\" />\n    <SUITE FILE_PATH=\"coverage/OOP$models.coverage\" NAME=\"models Coverage Results\" MODIFIED=\"1647092941442\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/lesson4/package\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 7ea15a4a84434ac84f578a2996688044eb4db9ad)
++++ b/.idea/workspace.xml	(date 1648043438283)
+@@ -1,10 +1,11 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="9695a7a2-2967-4ce1-8acb-7654205d1449" name="Changes" comment="">
++    <list default="true" id="9695a7a2-2967-4ce1-8acb-7654205d1449" name="Changes" comment="m">
++      <change afterPath="$PROJECT_DIR$/homeworks_oop/homework6.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/lesson7/hash_table.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/homeworks_oop/doc_re.txt " beforeDir="false" afterPath="$PROJECT_DIR$/homeworks_oop/doc_re.txt " afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/homeworks_oop/doc_venv.txt" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks_oop/doc_venv.txt" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -34,14 +35,16 @@
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
++    <property name="node.js.detected.package.eslint" value="true" />
++    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+   </component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="$PROJECT_DIR$/homeworks_oop" />
+     </key>
+   </component>
+-  <component name="RunManager" selected="Python.valid_email">
+-    <configuration name="abstract" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++  <component name="RunManager" selected="Python.hash_table">
++    <configuration name="hash_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="OOP" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+@@ -49,12 +52,12 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4/models" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson7" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson4/models/abstract.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson7/hash_table.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -63,7 +66,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
++    <configuration name="homework6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="OOP" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+@@ -71,12 +74,12 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homeworks_oop" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson4/main.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homeworks_oop/homework6.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -85,7 +88,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+       <module name="OOP" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+@@ -93,12 +96,12 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4/package" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson6" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson4/package/models.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson6/main.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -107,7 +110,7 @@
+       <option name="INPUT_FILE" value="" />
+       <method v="2" />
+     </configuration>
+-    <configuration name="regular" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+       <module name="OOP" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+@@ -115,12 +118,12 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson5" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4" />
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson5/regular.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson4/main.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -175,19 +178,19 @@
+     </configuration>
+     <list>
+       <item itemvalue="Python.main" />
+-      <item itemvalue="Python.models" />
+-      <item itemvalue="Python.abstract" />
+-      <item itemvalue="Python.regular" />
+       <item itemvalue="Python.valid_phone" />
+       <item itemvalue="Python.valid_email" />
++      <item itemvalue="Python.main (1)" />
++      <item itemvalue="Python.homework6" />
++      <item itemvalue="Python.hash_table" />
+     </list>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Python.hash_table" />
++        <item itemvalue="Python.homework6" />
++        <item itemvalue="Python.main (1)" />
+         <item itemvalue="Python.valid_email" />
+         <item itemvalue="Python.valid_phone" />
+-        <item itemvalue="Python.regular" />
+-        <item itemvalue="Python.abstract" />
+-        <item itemvalue="Python.models" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -210,23 +213,59 @@
+       <workItem from="1647432214571" duration="6486000" />
+       <workItem from="1647604301231" duration="2285000" />
+       <workItem from="1647608624232" duration="1444000" />
+-      <workItem from="1647629657212" duration="857000" />
++      <workItem from="1647629657212" duration="1211000" />
++      <workItem from="1647680888756" duration="608000" />
++      <workItem from="1647690570881" duration="236000" />
++      <workItem from="1647690812914" duration="882000" />
++      <workItem from="1647692549874" duration="4563000" />
++      <workItem from="1647697188439" duration="541000" />
++      <workItem from="1647977117862" duration="5675000" />
++      <workItem from="1648015094734" duration="4854000" />
++      <workItem from="1648033212619" duration="5705000" />
+     </task>
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <option name="LAST_COMMIT_MESSAGE" value="" />
++  </component>
++  <component name="XDebuggerManager">
++    <breakpoint-manager>
++      <breakpoints>
++        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
++          <url>file://$PROJECT_DIR$/homeworks_oop/homework6.py</url>
++          <line>18</line>
++          <option name="timeStamp" value="1" />
++        </line-breakpoint>
++      </breakpoints>
++    </breakpoint-manager>
++  </component>
+   <component name="com.intellij.coverage.CoverageDataManagerImpl">
++    <SUITE FILE_PATH="coverage/OOP$homework3.coverage" NAME="homework3 Coverage Results" MODIFIED="1647085024168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson3" />
++    <SUITE FILE_PATH="coverage/OOP$homework6.coverage" NAME="homework6 Coverage Results" MODIFIED="1648039887803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homeworks_oop" />
++    <SUITE FILE_PATH="coverage/OOP$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1647694626164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson6" />
++    <SUITE FILE_PATH="coverage/OOP$persons.coverage" NAME="homework4 Coverage Results" MODIFIED="1647376535228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homeworks_oop" />
++    <SUITE FILE_PATH="coverage/OOP$valid_email.coverage" NAME="valid_email Coverage Results" MODIFIED="1647437426745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson5" />
++    <SUITE FILE_PATH="coverage/OOP$models.coverage" NAME="models Coverage Results" MODIFIED="1647092941442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4/package" />
+     <SUITE FILE_PATH="coverage/OOP$mymodule.coverage" NAME="mymodule Coverage Results" MODIFIED="1647089623728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4" />
+-    <SUITE FILE_PATH="coverage/OOP$homework3.coverage" NAME="homework3 Coverage Results" MODIFIED="1647085024168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson3" />
+     <SUITE FILE_PATH="coverage/OOP$main.coverage" NAME="main Coverage Results" MODIFIED="1647089767842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4" />
+     <SUITE FILE_PATH="coverage/OOP$abstract.coverage" NAME="abstract Coverage Results" MODIFIED="1647092961542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4/models" />
+     <SUITE FILE_PATH="coverage/OOP$test.coverage" NAME="test Coverage Results" MODIFIED="1647089930960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4" />
++    <SUITE FILE_PATH="coverage/OOP$hash_table.coverage" NAME="hash_table Coverage Results" MODIFIED="1648040084950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson7" />
+     <SUITE FILE_PATH="coverage/OOP$homework4.coverage" NAME="regular Coverage Results" MODIFIED="1647434239361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson5" />
+-    <SUITE FILE_PATH="coverage/OOP$persons.coverage" NAME="homework4 Coverage Results" MODIFIED="1647376535228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homeworks_oop" />
+-    <SUITE FILE_PATH="coverage/OOP$valid_email.coverage" NAME="valid_email Coverage Results" MODIFIED="1647437426745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson5" />
+     <SUITE FILE_PATH="coverage/OOP$valid_phone.coverage" NAME="valid_phone Coverage Results" MODIFIED="1647436990991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson5" />
+-    <SUITE FILE_PATH="coverage/OOP$models.coverage" NAME="models Coverage Results" MODIFIED="1647092941442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4/package" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"VcsDirectoryMappings\">\n    <mapping directory=\"$PROJECT_DIR$\" vcs=\"Git\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+--- a/.idea/vcs.xml	(revision 7ea15a4a84434ac84f578a2996688044eb4db9ad)
++++ b/.idea/vcs.xml	(date 1647694122941)
+@@ -2,5 +2,6 @@
+ <project version="4">
+   <component name="VcsDirectoryMappings">
+     <mapping directory="$PROJECT_DIR$" vcs="Git" />
++    <mapping directory="$PROJECT_DIR$/lesson6" vcs="Git" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: homeworks_oop/homework7.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/homeworks_oop/homework7.py b/homeworks_oop/homework7.py
+new file mode 100644
+--- /dev/null	(date 1648238957404)
++++ b/homeworks_oop/homework7.py	(date 1648238957404)
+@@ -0,0 +1,11 @@
++def palindrome():
++    x = input('Enter your number: ')
++    if x == x[::-1]:
++        return True
++    else:
++        return False
++
++print(palindrome())
++
++
++
+Index: lesson7/hash_table.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lesson7/hash_table.py b/lesson7/hash_table.py
+new file mode 100644
+--- /dev/null	(date 1648043438229)
++++ b/lesson7/hash_table.py	(date 1648043438229)
+@@ -0,0 +1,43 @@
++class Car:
++
++    def __init__(self, model, title):
++        self.model = model
++        self.title = title
++
++class Bmw(Car):
++
++    def __init__(self, model, title):
++        super().__init__(model, title)
++
++class Mercedes(Car):
++
++    def __init__(self, model, title):
++        super().__init__(model, title)
++
++class Audi(Car):
++
++    def __init__(self, model, title):
++        super().__init__(model, title)
++
++bmw = [
++    Bmw('e34', 'bmw'),
++    Bmw('e34', 'bmw'),
++    Bmw('e34', 'bmw')
++]
++mercedes = [
++    Mercedes('e55', 'mers'),
++    Mercedes('e55', 'mers'),
++    Mercedes('e55', 'mers')
++]
++audi = [
++    Audi('rs6', 'audi'),
++    Audi('rs6', 'audi')
++]
++
++mark = "mercedes"
++
++hash_table = {
++    "mercedes": mercedes,
++    "bmw": bmw,
++    "audi": audi
++}
+Index: homeworks_oop/homework6.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/homeworks_oop/homework6.py b/homeworks_oop/homework6.py
+new file mode 100644
+--- /dev/null	(date 1648034482685)
++++ b/homeworks_oop/homework6.py	(date 1648034482685)
+@@ -0,0 +1,27 @@
++def get_list() -> list:
++    return list(range(0, 1_000_000_000, 2))
++
++class Solution:
++
++    def find_target(self, list, target):
++        steps = 0
++        start = 0
++        end = len(list)
++
++        while start < end:
++            center = (start + end) // 2
++            steps += 1
++
++            if target == center:
++                return steps
++
++            elif target > center:
++                start = center + 1
++
++            else:
++                end = center - 1
++        return steps
++
++a = Solution().find_target(get_list(), 2_345_678)
++print(a)
++
