@@ -1,15 +1,15 @@
-from array import *
-
-a = array('i', [1, 2, 3, 4])
+arr = 123456
 
 class Solution:
 
-    def plusOne(digits: list):
-        b = list(a)
+    def plusOne(digits):
+
+        b = [int(i) for i in str(arr)]
         b[-1] = b[-1] + 1
 
         return b
 
-print(Solution.plusOne(a))
+print(Solution.plusOne(arr))
+
 
 
